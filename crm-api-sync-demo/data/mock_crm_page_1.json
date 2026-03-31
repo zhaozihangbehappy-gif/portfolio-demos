@@ -1,0 +1,42 @@
+{
+  "page": 1,
+  "next_page": 2,
+  "data": [
+    {
+      "contact_id": "C-1001",
+      "email": "ava@northwind.io",
+      "full_name": "Ava Carter",
+      "company": "Northwind Labs",
+      "lifecycle_stage": "Qualified Lead",
+      "owner": "Mia Chen",
+      "updated_at": "2026-03-30T08:15:00Z"
+    },
+    {
+      "contact_id": "C-1002",
+      "email": "liam@brightside.ai",
+      "full_name": "Liam Brooks",
+      "company": "Brightside AI",
+      "lifecycle_stage": "Opportunity",
+      "owner": "Mia Chen",
+      "updated_at": "2026-03-30T08:20:00Z"
+    },
+    {
+      "contact_id": "C-1003",
+      "email": "emma@harborlogistics.com",
+      "full_name": "Emma Reed",
+      "company": "Harbor Logistics",
+      "lifecycle_stage": "Customer",
+      "owner": "Noah Patel",
+      "updated_at": "2026-03-30T08:22:00Z"
+    },
+    {
+      "contact_id": "C-1004",
+      "email": "olivia@sunsetretail.com",
+      "full_name": "Olivia Hart",
+      "company": "Sunset Retail",
+      "lifecycle_stage": "Qualified Lead",
+      "owner": "Noah Patel",
+      "updated_at": "2026-03-30T08:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+2026-03-31 16:06:08,073 [INFO] Parsed 4 records from page1.html
+2026-03-31 16:06:08,075 [INFO] Parsed 4 records from page2.html
+2026-03-31 16:06:08,076 [INFO] Parsed 4 records from page3.html
+2026-03-31 16:06:08,078 [INFO] Saved 12 raw rows to /mnt/c/Users/Administrator/portfolio-demos/ecommerce-scraper-demo/output/raw_product_listings.csv
+2026-03-31 16:06:08,080 [INFO] Saved 10 unique rows to /mnt/c/Users/Administrator/portfolio-demos/ecommerce-scraper-demo/output/clean_product_listings.csv

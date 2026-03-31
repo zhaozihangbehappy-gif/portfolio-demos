@@ -1,0 +1,11 @@
+report_week,team,owner,workflow_name,status,manual_minutes_before,automated_minutes_after,revenue_impact_usd
+2026-W13,marketing,Ava,Campaign performance export,done,95,8,4200
+2026-W13,sales,liam,Lead routing sheet update,in_progress,60,10,2800
+2026-W13,finance,,Invoice reconciliation,completed,120,15,5100
+2026-W13,operations,Noah,Vendor status tracker,blocked,45,12,900
+2026-W13,marketing,ava,Audience list deduplication,complete,70,7,2100
+2026-W13,sales,Liam,Weekly CRM hygiene,done,85,10,3600
+2026-W13,finance,Emma,Cash forecast refresh,Completed,110,14,4800
+2026-W13,operations,Noah,Shipment exception log,In Progress,55,12,1500
+2026-W13,marketing,Olivia,UTM cleanup and mapping,done,80,9,1900
+2026-W13,operations,Mia,Support escalation digest,completed,65,11,1300

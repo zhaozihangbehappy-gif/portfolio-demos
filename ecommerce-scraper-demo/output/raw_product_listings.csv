@@ -1,0 +1,13 @@
+product_id,name,category,price_usd,rating,availability,product_url,source_page
+P-1001,AeroBlend Portable Blender,Kitchen,39.99,4.6,In Stock,https://demo-store.example/products/aeroblend-portable-blender,page1.html
+P-1002,NovaDesk LED Lamp,Home Office,27.5,4.4,In Stock,https://demo-store.example/products/novadesk-led-lamp,page1.html
+P-1003,TrailCore Running Belt,Fitness,19.95,4.1,Backorder,https://demo-store.example/products/trailcore-running-belt,page1.html
+P-1004,ClearTone USB Microphone,Electronics,68.0,4.8,In Stock,https://demo-store.example/products/cleartone-usb-microphone,page1.html
+P-1003,TrailCore Running Belt,Fitness,18.95,4.1,In Stock,https://demo-store.example/products/trailcore-running-belt,page2.html
+P-1005,Nimbus Smart Mug,Kitchen,54.25,4.5,In Stock,https://demo-store.example/products/nimbus-smart-mug,page2.html
+P-1006,Harbor Carry Organizer,Travel,31.0,4.0,Limited Stock,https://demo-store.example/products/harbor-carry-organizer,page2.html
+P-1007,SlateNote Wireless Keyboard,Electronics,45.75,4.3,In Stock,https://demo-store.example/products/slatenote-wireless-keyboard,page2.html
+P-1004,ClearTone USB Microphone,Electronics,66.0,4.8,In Stock,https://demo-store.example/products/cleartone-usb-microphone,page3.html
+P-1008,NorthPeak Insulated Bottle,Outdoor,24.99,4.7,In Stock,https://demo-store.example/products/northpeak-insulated-bottle,page3.html
+P-1009,FrameFlow Laptop Stand,Home Office,34.9,4.2,In Stock,https://demo-store.example/products/frameflow-laptop-stand,page3.html
+P-1010,CloudFit Recovery Roller,Fitness,22.4,4.4,In Stock,https://demo-store.example/products/cloudfit-recovery-roller,page3.html
